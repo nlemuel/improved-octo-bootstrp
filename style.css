@@ -1,0 +1,68 @@
+.logo{
+    width: 200px;
+    height: 100%;
+    border-radius: 20%;
+}
+
+body {
+    font: 20px Arial, sans-Serif;
+    background-color: black;
+}
+
+
+.quem-somos{
+    background-color: black;
+    color: azure;
+}
+
+.parceiros {
+    color: azure;
+}
+
+.nba{
+    height: 250px;
+    width: 300px;
+}
+
+.dbz{
+    height: 250px;
+    width: 300px;
+}
+
+.margin {
+    padding-bottom: 20px;
+}
+.margintop{
+    padding-top: 20px;
+}
+
+.parceiros{
+    background-color: black;
+}
+
+.serviços{
+    background-color: black;
+    color: azure;
+}
+.ptext{
+    color: azure;
+    padding-top: 30px;
+}
+
+.awards{
+    padding-top: 110px;
+    padding-right: 50px;
+}
+
+.serv{
+    padding-top: 40px;
+}
+
+h5{
+    padding-top: 20px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: rgba(240, 255, 255, 0.074);
+}
